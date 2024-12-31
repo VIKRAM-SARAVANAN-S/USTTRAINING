@@ -1,2 +1,2 @@
 # USTTRAINING
-THIS REPO IS FOR MY PERSONAL LEARNING PURPOSE OF GITHUB
+This repository is for my personal learning purposes on GitHub.
